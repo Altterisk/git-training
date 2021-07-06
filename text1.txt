@@ -3,8 +3,7 @@ I'm Le Thanh Tu
 I'm trying to create and resolve conflicts
 Just chilling
 Adding more stuffs
+Also deleting
 And more stuffs
-<<<<<<< HEAD
-=======
 And even more stuffs
->>>>>>> 68629c0594e850835b82472a36a0a89abb59b69d
+MORE
