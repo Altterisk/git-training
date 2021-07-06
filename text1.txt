@@ -2,3 +2,5 @@ Hello World
 I'm Le Thanh Tu
 I'm trying to create and resolve conflicts
 Just chilling
+Adding more stuffs
+And more stuffs
